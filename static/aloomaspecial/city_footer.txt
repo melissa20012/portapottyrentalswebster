@@ -1,0 +1,50 @@
+<br><br><br><br>
+    <div class="containeralooma" id="contact">
+        <section class="boxalooma">
+        <div class="row">
+            <div class="col-12">
+                <h2 class="template4 h2alooma" style="margin-left:0px; font-size: larger; font-family: Verdana, Geneva, Tahoma, sans-serif;">Frequently Asked Questions</h2>
+                <h4 class="template4 palooma" style="font-size:medium;">How many porta-potties do I need for my event?
+                </h4>
+                <p style="font-family: Verdana, Geneva, Tahoma, sans-serif;">We calculate this based on attendance, event duration, and the presence of food or beverages.</p>
+                <h4 class="template4 palooma" style="font-size:large;">Do you handle service and waste removal?
+                </h4>
+                <p style="font-family: Verdana, Geneva, Tahoma, sans-serif;">Yes, our team manages all servicing and disposal using approved methods that meet sanitation guidelines.</p>
+                <h4 class="template4 palooma" style="font-size:large;">How soon should I book my restrooms?
+                </h4>
+                <p style="font-family: Verdana, Geneva, Tahoma, sans-serif;">Booking early is best for large events, while construction and long-term projects can be scheduled as needed.</p>
+                <h4 class="template4 palooma" style="font-size:large;">Can I rent trailers for multi-day events?
+                </h4>
+                <p style="font-family: Verdana, Geneva, Tahoma, sans-serif;">Yes. We prepare restroom trailers for extended use with restocking and scheduled servicing.</p>
+                <h4 class="template4 palooma" style="font-size:large;">Do you handle placement and servicing?
+                </h4>
+                <p style="font-family: Verdana, Geneva, Tahoma, sans-serif;">Yes. Our team handles placement, pumping, sanitizing, and scheduled servicing.</p>
+                <h4 class="template4 palooma" style="font-size:large;">Do you offer restroom trailers for upscale events?
+                </h4>
+                <p style="font-family: Verdana, Geneva, Tahoma, sans-serif;">Yes, we provide luxury restroom trailers with sinks, lighting, and flushing toilets.</p>
+                <div class="callalooma mx-auto"><a href="tel:870-306-3280">Click Here To Call Us (870) 306-3280</a></div>
+            </div>
+        </div>
+        </section>
+       </div>
+
+    <br><br><br><br>
+    <div class="containeralooma">
+        <section class="boxalooma" style="text-align: center;">
+        <h2 class="heading-with-line template4 h2alooma">#State Insights: Population,<br> Zip Codes, Influence, and Service Areas</h2>
+        <p>aloomaidcontentscity</p>
+        <p style="color:black;">Zip Codes in #State that we also serve: <i>aloomaidzip</i></p>
+        </section>
+    </div>
+
+    <br><br><br><br>
+    <div class="containeralooma" style="background-color: transparent; width: 100%;">
+        <section class="boxalooma" style="text-align: center;">
+        <h2 class="heading-with-line template4 h2alooma">Cities Close To #State That We Also Serve</h2>
+        <div class="row">
+            aloomaidcitycloseto
+        </div>
+        <br><br>
+        aloomaidembeddedmap
+        </section>
+    </div>
